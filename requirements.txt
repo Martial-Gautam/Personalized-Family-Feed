@@ -1,0 +1,11 @@
+torch
+numpy
+pandas
+matplotlib
+seaborn
+gymnasium
+pytest
+jupyter
+streamlit
+plotly
+Pillow

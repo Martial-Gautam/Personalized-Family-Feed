@@ -1,0 +1,734 @@
+{
+  "label": "PPO",
+  "training_time_s": 2.62,
+  "episodes": [
+    {
+      "episode": 0,
+      "total_reward": 3.5198,
+      "mean_rel_strength": 0.5608,
+      "tier2_ratio": 0.2857,
+      "engagement": 6
+    },
+    {
+      "episode": 1,
+      "total_reward": 5.8176,
+      "mean_rel_strength": 0.561,
+      "tier2_ratio": 0.4286,
+      "engagement": 8
+    },
+    {
+      "episode": 2,
+      "total_reward": 8.4521,
+      "mean_rel_strength": 0.5612,
+      "tier2_ratio": 0.4444,
+      "engagement": 11
+    },
+    {
+      "episode": 3,
+      "total_reward": 5.1971,
+      "mean_rel_strength": 0.5613,
+      "tier2_ratio": 0.4,
+      "engagement": 6
+    },
+    {
+      "episode": 4,
+      "total_reward": 4.0406,
+      "mean_rel_strength": 0.5614,
+      "tier2_ratio": 0.3333,
+      "engagement": 5
+    },
+    {
+      "episode": 5,
+      "total_reward": 4.961,
+      "mean_rel_strength": 0.5615,
+      "tier2_ratio": 0.0,
+      "engagement": 7
+    },
+    {
+      "episode": 6,
+      "total_reward": 5.6987,
+      "mean_rel_strength": 0.5617,
+      "tier2_ratio": 0.4,
+      "engagement": 9
+    },
+    {
+      "episode": 7,
+      "total_reward": 4.1019,
+      "mean_rel_strength": 0.5618,
+      "tier2_ratio": 0.4444,
+      "engagement": 6
+    },
+    {
+      "episode": 8,
+      "total_reward": 6.2814,
+      "mean_rel_strength": 0.5621,
+      "tier2_ratio": 0.1667,
+      "engagement": 7
+    },
+    {
+      "episode": 9,
+      "total_reward": 4.4887,
+      "mean_rel_strength": 0.5621,
+      "tier2_ratio": 0.4,
+      "engagement": 5
+    },
+    {
+      "episode": 10,
+      "total_reward": 3.1661,
+      "mean_rel_strength": 0.5623,
+      "tier2_ratio": 0.2,
+      "engagement": 5
+    },
+    {
+      "episode": 11,
+      "total_reward": 5.0537,
+      "mean_rel_strength": 0.5625,
+      "tier2_ratio": 0.3,
+      "engagement": 6
+    },
+    {
+      "episode": 12,
+      "total_reward": 1.7403,
+      "mean_rel_strength": 0.5626,
+      "tier2_ratio": 0.0,
+      "engagement": 5
+    },
+    {
+      "episode": 13,
+      "total_reward": 3.8779,
+      "mean_rel_strength": 0.5628,
+      "tier2_ratio": 0.2857,
+      "engagement": 8
+    },
+    {
+      "episode": 14,
+      "total_reward": 5.8401,
+      "mean_rel_strength": 0.5629,
+      "tier2_ratio": 0.4,
+      "engagement": 8
+    },
+    {
+      "episode": 15,
+      "total_reward": 3.4134,
+      "mean_rel_strength": 0.5631,
+      "tier2_ratio": 0.4286,
+      "engagement": 6
+    },
+    {
+      "episode": 16,
+      "total_reward": 2.8125,
+      "mean_rel_strength": 0.5632,
+      "tier2_ratio": 0.4286,
+      "engagement": 6
+    },
+    {
+      "episode": 17,
+      "total_reward": -0.49,
+      "mean_rel_strength": 0.5632,
+      "tier2_ratio": 0.4286,
+      "engagement": 3
+    },
+    {
+      "episode": 18,
+      "total_reward": 4.4477,
+      "mean_rel_strength": 0.5633,
+      "tier2_ratio": 0.3333,
+      "engagement": 8
+    },
+    {
+      "episode": 19,
+      "total_reward": 9.0613,
+      "mean_rel_strength": 0.5635,
+      "tier2_ratio": 0.3333,
+      "engagement": 10
+    },
+    {
+      "episode": 20,
+      "total_reward": 4.5538,
+      "mean_rel_strength": 0.5637,
+      "tier2_ratio": 0.4,
+      "engagement": 9
+    },
+    {
+      "episode": 21,
+      "total_reward": 0.9912,
+      "mean_rel_strength": 0.5637,
+      "tier2_ratio": 0.4286,
+      "engagement": 3
+    },
+    {
+      "episode": 22,
+      "total_reward": 4.11,
+      "mean_rel_strength": 0.5638,
+      "tier2_ratio": 0.4,
+      "engagement": 4
+    },
+    {
+      "episode": 23,
+      "total_reward": 5.9973,
+      "mean_rel_strength": 0.5639,
+      "tier2_ratio": 0.4,
+      "engagement": 8
+    },
+    {
+      "episode": 24,
+      "total_reward": 5.0094,
+      "mean_rel_strength": 0.5641,
+      "tier2_ratio": 0.2857,
+      "engagement": 10
+    },
+    {
+      "episode": 25,
+      "total_reward": 4.2818,
+      "mean_rel_strength": 0.5643,
+      "tier2_ratio": 0.375,
+      "engagement": 8
+    },
+    {
+      "episode": 26,
+      "total_reward": 4.9979,
+      "mean_rel_strength": 0.5645,
+      "tier2_ratio": 0.1429,
+      "engagement": 8
+    },
+    {
+      "episode": 27,
+      "total_reward": 4.5603,
+      "mean_rel_strength": 0.5646,
+      "tier2_ratio": 0.4,
+      "engagement": 7
+    },
+    {
+      "episode": 28,
+      "total_reward": 2.3569,
+      "mean_rel_strength": 0.5646,
+      "tier2_ratio": 0.6,
+      "engagement": 5
+    },
+    {
+      "episode": 29,
+      "total_reward": 7.2943,
+      "mean_rel_strength": 0.5648,
+      "tier2_ratio": 0.3333,
+      "engagement": 9
+    },
+    {
+      "episode": 30,
+      "total_reward": 3.3918,
+      "mean_rel_strength": 0.565,
+      "tier2_ratio": 0.2,
+      "engagement": 6
+    },
+    {
+      "episode": 31,
+      "total_reward": 4.8474,
+      "mean_rel_strength": 0.5651,
+      "tier2_ratio": 0.1667,
+      "engagement": 7
+    },
+    {
+      "episode": 32,
+      "total_reward": 6.3784,
+      "mean_rel_strength": 0.5653,
+      "tier2_ratio": 0.4,
+      "engagement": 9
+    },
+    {
+      "episode": 33,
+      "total_reward": -1.7409,
+      "mean_rel_strength": 0.5654,
+      "tier2_ratio": 0.25,
+      "engagement": 2
+    },
+    {
+      "episode": 34,
+      "total_reward": 6.3359,
+      "mean_rel_strength": 0.5655,
+      "tier2_ratio": 0.6,
+      "engagement": 8
+    },
+    {
+      "episode": 35,
+      "total_reward": 2.124,
+      "mean_rel_strength": 0.5656,
+      "tier2_ratio": 0.4286,
+      "engagement": 5
+    },
+    {
+      "episode": 36,
+      "total_reward": 5.0276,
+      "mean_rel_strength": 0.5657,
+      "tier2_ratio": 0.4286,
+      "engagement": 8
+    },
+    {
+      "episode": 37,
+      "total_reward": 4.9743,
+      "mean_rel_strength": 0.5659,
+      "tier2_ratio": 0.2857,
+      "engagement": 6
+    },
+    {
+      "episode": 38,
+      "total_reward": 8.5959,
+      "mean_rel_strength": 0.5662,
+      "tier2_ratio": 0.3333,
+      "engagement": 13
+    },
+    {
+      "episode": 39,
+      "total_reward": 8.4236,
+      "mean_rel_strength": 0.5666,
+      "tier2_ratio": 0.0,
+      "engagement": 10
+    },
+    {
+      "episode": 40,
+      "total_reward": 1.9417,
+      "mean_rel_strength": 0.5665,
+      "tier2_ratio": 0.6,
+      "engagement": 3
+    },
+    {
+      "episode": 41,
+      "total_reward": 2.1319,
+      "mean_rel_strength": 0.5667,
+      "tier2_ratio": 0.1429,
+      "engagement": 6
+    },
+    {
+      "episode": 42,
+      "total_reward": 3.0974,
+      "mean_rel_strength": 0.5667,
+      "tier2_ratio": 0.4,
+      "engagement": 5
+    },
+    {
+      "episode": 43,
+      "total_reward": 3.8981,
+      "mean_rel_strength": 0.5667,
+      "tier2_ratio": 0.3333,
+      "engagement": 6
+    },
+    {
+      "episode": 44,
+      "total_reward": 6.1612,
+      "mean_rel_strength": 0.5669,
+      "tier2_ratio": 0.5,
+      "engagement": 7
+    },
+    {
+      "episode": 45,
+      "total_reward": 0.5951,
+      "mean_rel_strength": 0.5669,
+      "tier2_ratio": 0.4286,
+      "engagement": 4
+    },
+    {
+      "episode": 46,
+      "total_reward": 5.6618,
+      "mean_rel_strength": 0.5671,
+      "tier2_ratio": 0.2857,
+      "engagement": 9
+    },
+    {
+      "episode": 47,
+      "total_reward": 3.8046,
+      "mean_rel_strength": 0.5671,
+      "tier2_ratio": 0.25,
+      "engagement": 6
+    },
+    {
+      "episode": 48,
+      "total_reward": 2.231,
+      "mean_rel_strength": 0.5673,
+      "tier2_ratio": 0.4286,
+      "engagement": 6
+    },
+    {
+      "episode": 49,
+      "total_reward": 5.3938,
+      "mean_rel_strength": 0.5674,
+      "tier2_ratio": 0.25,
+      "engagement": 8
+    },
+    {
+      "episode": 50,
+      "total_reward": 5.8228,
+      "mean_rel_strength": 0.5675,
+      "tier2_ratio": 0.4,
+      "engagement": 11
+    },
+    {
+      "episode": 51,
+      "total_reward": -0.0471,
+      "mean_rel_strength": 0.5676,
+      "tier2_ratio": 0.2857,
+      "engagement": 3
+    },
+    {
+      "episode": 52,
+      "total_reward": 7.4108,
+      "mean_rel_strength": 0.5678,
+      "tier2_ratio": 0.4,
+      "engagement": 13
+    },
+    {
+      "episode": 53,
+      "total_reward": 3.4351,
+      "mean_rel_strength": 0.5679,
+      "tier2_ratio": 0.4,
+      "engagement": 5
+    },
+    {
+      "episode": 54,
+      "total_reward": 4.2072,
+      "mean_rel_strength": 0.568,
+      "tier2_ratio": 0.0,
+      "engagement": 6
+    },
+    {
+      "episode": 55,
+      "total_reward": 1.408,
+      "mean_rel_strength": 0.568,
+      "tier2_ratio": 0.1667,
+      "engagement": 5
+    },
+    {
+      "episode": 56,
+      "total_reward": 4.3749,
+      "mean_rel_strength": 0.5682,
+      "tier2_ratio": 0.2,
+      "engagement": 5
+    },
+    {
+      "episode": 57,
+      "total_reward": 5.8304,
+      "mean_rel_strength": 0.5684,
+      "tier2_ratio": 0.1667,
+      "engagement": 8
+    },
+    {
+      "episode": 58,
+      "total_reward": 6.9312,
+      "mean_rel_strength": 0.5686,
+      "tier2_ratio": 0.3,
+      "engagement": 8
+    },
+    {
+      "episode": 59,
+      "total_reward": 2.8367,
+      "mean_rel_strength": 0.5687,
+      "tier2_ratio": 0.2857,
+      "engagement": 6
+    },
+    {
+      "episode": 60,
+      "total_reward": 6.4912,
+      "mean_rel_strength": 0.5689,
+      "tier2_ratio": 0.4,
+      "engagement": 9
+    },
+    {
+      "episode": 61,
+      "total_reward": 3.0496,
+      "mean_rel_strength": 0.5689,
+      "tier2_ratio": 0.6,
+      "engagement": 6
+    },
+    {
+      "episode": 62,
+      "total_reward": 6.3282,
+      "mean_rel_strength": 0.5691,
+      "tier2_ratio": 0.1429,
+      "engagement": 7
+    },
+    {
+      "episode": 63,
+      "total_reward": 5.5983,
+      "mean_rel_strength": 0.5692,
+      "tier2_ratio": 0.4,
+      "engagement": 7
+    },
+    {
+      "episode": 64,
+      "total_reward": 6.1702,
+      "mean_rel_strength": 0.5694,
+      "tier2_ratio": 0.1667,
+      "engagement": 8
+    },
+    {
+      "episode": 65,
+      "total_reward": 5.0072,
+      "mean_rel_strength": 0.5696,
+      "tier2_ratio": 0.25,
+      "engagement": 7
+    },
+    {
+      "episode": 66,
+      "total_reward": 3.3524,
+      "mean_rel_strength": 0.5697,
+      "tier2_ratio": 0.2857,
+      "engagement": 5
+    },
+    {
+      "episode": 67,
+      "total_reward": 6.9656,
+      "mean_rel_strength": 0.5698,
+      "tier2_ratio": 0.3,
+      "engagement": 6
+    },
+    {
+      "episode": 68,
+      "total_reward": 11.3115,
+      "mean_rel_strength": 0.5702,
+      "tier2_ratio": 0.4,
+      "engagement": 11
+    },
+    {
+      "episode": 69,
+      "total_reward": 3.1772,
+      "mean_rel_strength": 0.5702,
+      "tier2_ratio": 0.25,
+      "engagement": 4
+    },
+    {
+      "episode": 70,
+      "total_reward": 6.1429,
+      "mean_rel_strength": 0.5705,
+      "tier2_ratio": 0.2857,
+      "engagement": 8
+    },
+    {
+      "episode": 71,
+      "total_reward": 2.9237,
+      "mean_rel_strength": 0.5706,
+      "tier2_ratio": 0.5,
+      "engagement": 6
+    },
+    {
+      "episode": 72,
+      "total_reward": 3.8267,
+      "mean_rel_strength": 0.5708,
+      "tier2_ratio": 0.4286,
+      "engagement": 6
+    },
+    {
+      "episode": 73,
+      "total_reward": 2.2481,
+      "mean_rel_strength": 0.5709,
+      "tier2_ratio": 0.1667,
+      "engagement": 5
+    },
+    {
+      "episode": 74,
+      "total_reward": 2.0973,
+      "mean_rel_strength": 0.571,
+      "tier2_ratio": 0.4286,
+      "engagement": 6
+    },
+    {
+      "episode": 75,
+      "total_reward": 3.8846,
+      "mean_rel_strength": 0.5712,
+      "tier2_ratio": 0.375,
+      "engagement": 6
+    },
+    {
+      "episode": 76,
+      "total_reward": 0.9369,
+      "mean_rel_strength": 0.5712,
+      "tier2_ratio": 0.4286,
+      "engagement": 4
+    },
+    {
+      "episode": 77,
+      "total_reward": 3.9511,
+      "mean_rel_strength": 0.5713,
+      "tier2_ratio": 0.25,
+      "engagement": 6
+    },
+    {
+      "episode": 78,
+      "total_reward": 4.2404,
+      "mean_rel_strength": 0.5714,
+      "tier2_ratio": 0.1429,
+      "engagement": 6
+    },
+    {
+      "episode": 79,
+      "total_reward": 0.367,
+      "mean_rel_strength": 0.5715,
+      "tier2_ratio": 0.0,
+      "engagement": 3
+    },
+    {
+      "episode": 80,
+      "total_reward": 5.1242,
+      "mean_rel_strength": 0.5715,
+      "tier2_ratio": 0.4,
+      "engagement": 8
+    },
+    {
+      "episode": 81,
+      "total_reward": 5.2477,
+      "mean_rel_strength": 0.5717,
+      "tier2_ratio": 0.2857,
+      "engagement": 7
+    },
+    {
+      "episode": 82,
+      "total_reward": 1.9267,
+      "mean_rel_strength": 0.5718,
+      "tier2_ratio": 0.0,
+      "engagement": 5
+    },
+    {
+      "episode": 83,
+      "total_reward": 4.3393,
+      "mean_rel_strength": 0.572,
+      "tier2_ratio": 0.1429,
+      "engagement": 7
+    },
+    {
+      "episode": 84,
+      "total_reward": -2.0128,
+      "mean_rel_strength": 0.572,
+      "tier2_ratio": 0.2,
+      "engagement": 3
+    },
+    {
+      "episode": 85,
+      "total_reward": -0.7954,
+      "mean_rel_strength": 0.5719,
+      "tier2_ratio": 0.3333,
+      "engagement": 3
+    },
+    {
+      "episode": 86,
+      "total_reward": 4.5778,
+      "mean_rel_strength": 0.572,
+      "tier2_ratio": 0.2222,
+      "engagement": 4
+    },
+    {
+      "episode": 87,
+      "total_reward": 8.9488,
+      "mean_rel_strength": 0.5722,
+      "tier2_ratio": 0.3,
+      "engagement": 10
+    },
+    {
+      "episode": 88,
+      "total_reward": 7.404,
+      "mean_rel_strength": 0.5724,
+      "tier2_ratio": 0.3,
+      "engagement": 10
+    },
+    {
+      "episode": 89,
+      "total_reward": 1.8779,
+      "mean_rel_strength": 0.5724,
+      "tier2_ratio": 0.2857,
+      "engagement": 4
+    },
+    {
+      "episode": 90,
+      "total_reward": 0.044,
+      "mean_rel_strength": 0.5725,
+      "tier2_ratio": 0.0,
+      "engagement": 5
+    },
+    {
+      "episode": 91,
+      "total_reward": -0.4697,
+      "mean_rel_strength": 0.5726,
+      "tier2_ratio": 0.2,
+      "engagement": 4
+    },
+    {
+      "episode": 92,
+      "total_reward": 5.6405,
+      "mean_rel_strength": 0.5728,
+      "tier2_ratio": 0.1429,
+      "engagement": 9
+    },
+    {
+      "episode": 93,
+      "total_reward": 5.0903,
+      "mean_rel_strength": 0.573,
+      "tier2_ratio": 0.3333,
+      "engagement": 6
+    },
+    {
+      "episode": 94,
+      "total_reward": 8.0714,
+      "mean_rel_strength": 0.5732,
+      "tier2_ratio": 0.2222,
+      "engagement": 12
+    },
+    {
+      "episode": 95,
+      "total_reward": 6.5622,
+      "mean_rel_strength": 0.5735,
+      "tier2_ratio": 0.4,
+      "engagement": 12
+    },
+    {
+      "episode": 96,
+      "total_reward": 5.3324,
+      "mean_rel_strength": 0.5736,
+      "tier2_ratio": 0.125,
+      "engagement": 8
+    },
+    {
+      "episode": 97,
+      "total_reward": 3.1508,
+      "mean_rel_strength": 0.5737,
+      "tier2_ratio": 0.375,
+      "engagement": 5
+    },
+    {
+      "episode": 98,
+      "total_reward": 4.1514,
+      "mean_rel_strength": 0.5739,
+      "tier2_ratio": 0.4286,
+      "engagement": 6
+    },
+    {
+      "episode": 99,
+      "total_reward": -8.5648,
+      "mean_rel_strength": 0.574,
+      "tier2_ratio": 0.2,
+      "engagement": 3
+    }
+  ],
+  "losses": [
+    0.442544,
+    0.474989,
+    0.484115,
+    0.491118,
+    0.44916
+  ],
+  "actor_losses": [
+    -0.054385,
+    -0.017439,
+    -0.002181,
+    0.007284,
+    -0.000654
+  ],
+  "critic_losses": [
+    0.496929,
+    0.492428,
+    0.486296,
+    0.483834,
+    0.449814
+  ],
+  "entropies": [
+    2.483097,
+    2.483058,
+    2.482692,
+    2.482557,
+    2.48195
+  ]
+}
