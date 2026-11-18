@@ -1,4 +1,4 @@
-# FamilyLink RL
+# Personalized Family Feed
 
 **Reinforcement Learning–Based Social Relationship Modeling and Personalized Feed Optimization for Family-Centric Social Networks**
 
